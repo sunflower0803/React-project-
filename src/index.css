@@ -7,3 +7,10 @@
     @apply font-primary text-primary;
   }
 }
+/* index.css or App.css */
+@import url('https://fonts.googleapis.com/css2?family=Kantumruy:wght@400;700&display=swap');
+
+/* Apply globally */
+body {
+  font-family: 'Kantumruy', sans-serif;
+}

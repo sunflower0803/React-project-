@@ -1,8 +1,9 @@
+// tailwind.config.js
 module.exports = {
   content: ['./src/**/*.{js,jsx,ts,tsx}'],
   theme: {
     fontFamily: {
-      primary: 'Poppins',
+      primary: ['Kantumruy', 'sans-serif'],
     },
     container: {
       padding: {
